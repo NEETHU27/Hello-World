@@ -1,3 +1,4 @@
 # Hello-World
 i am Neethu 
-Iamnt to be a webdeveloper . it's my dream as aimed like Sir. APJ AbdhulKalam our missal man and proud of Indians
+I want to be a webdeveloper . it's my dream aimed like Sir. APJ AbdhulKalam our missal man and proud of Indians.
+    
